@@ -1,226 +1,372 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=230&section=header&text=Ziad%20Khalil&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=57&descSize=18"/>
+
 <div align="center">
 
-# Hi, I'm Ziad Khalil 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=23\&duration=2800\&pause=900\&color=7C3AED\&center=true\&vCenter=true\&width=850\&lines=Building+production-ready+SaaS+platforms;Architecting+scalable+frontend+systems;Turning+complex+workflows+into+simple+experiences;Shipping+fast%2C+accessible+and+maintainable+products)](https://git.io/typing-svg)
 
-### Software Engineer · React, Next.js & TypeScript
+<p>
+  <a href="https://linkedin.com/in/ziad-khalil-821277248">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ziadk432@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ziadk432">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-I build scalable SaaS platforms, booking systems, dashboards, and customer-facing digital products.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziad_Khalil-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ziad-khalil-821277248)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ziadk432@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ziadk432-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ziadk432)
+<img src="https://komarev.com/ghpvc/?username=ziadk432&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About Me
+## `whoami`
 
-I'm a Software Engineer based in Cairo with over two years of experience building production SaaS platforms, event management systems, booking products, and interactive digital experiences.
+```ts
+const ziad = {
+  location: "Cairo, Egypt",
+  role: "Software Engineer",
+  experience: "2+ years shipping production software",
 
-I work primarily with **React, Next.js, and TypeScript**, focusing on scalable frontend architecture, performance, accessibility, multilingual interfaces, and maintainable code.
+  focus: [
+    "Frontend Architecture",
+    "Full-Stack Applications",
+    "SaaS Platforms",
+    "Performance & Accessibility",
+  ],
 
-* Building production applications with **Next.js, React, and TypeScript**
-* Experienced with **SSR, SSG, ISR, SEO, and Core Web Vitals**
-* Building reusable component systems and typed API layers
-* Working with payments, subscriptions, RBAC, authentication, and complex workflows
-* Comfortable owning products from user-flow planning to deployment
-* Interested in frontend architecture, full-stack development, and system design
+  currentlyBuildingWith: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "Strapi",
+  ],
 
----
+  engineeringValues: [
+    "Maintainable code",
+    "Thoughtful user experiences",
+    "Strong performance",
+    "Clear architecture",
+  ],
+};
+```
 
-## Selected Work
+I build production SaaS platforms, booking systems, internal dashboards and customer-facing digital products.
 
-### Inspkt
-
-Multi-tenant B2B inspection and booking SaaS platform.
-
-* Built three-tier role-based access control
-* Integrated Stripe, Moyasar, and Paymob
-* Developed subscription guards and protected product flows
-* Built a drag-and-drop workflow engine supporting more than 400 items
-* Implemented optimized state management using Zustand and React memoization
-
-**Technologies:** Next.js, React, TypeScript, Zustand, TanStack Query, Payment APIs
-
-[Visit Inspkt](https://inspkt.eg)
-
----
-
-### Eventbeez
-
-Event management SaaS platform built across a five-repository NX monorepo.
-
-* Built internal management dashboards and customer-facing event experiences
-* Developed a multi-step abstract submission wizard
-* Added local-storage persistence for complex form flows
-* Integrated payment and subscription functionality
-* Contributed to reusable architecture shared across the platform
-
-**Technologies:** React, Next.js, TypeScript, NX, TanStack Query, REST APIs
-
-[Visit Eventbeez](https://eventbeez.com)
+My work spans the full development journey—from shaping product flows and building demo interfaces to designing reusable component systems, typed API layers, authentication architecture and deployment workflows.
 
 ---
 
-### The Boat Market
+## Impact at a Glance
 
-Marine marketplace built independently across the frontend and backend.
+<div align="center">
 
-* Delivered three distinct customer journeys
-* Built a complete CMS and admin dashboard
-* Developed structured boat listing and enquiry flows
-* Used Strapi as a headless CMS
-* Deployed the full stack on Fly.io
+|           **100K+**           |           **38M EGP**          |               **400+**               |            **4 Languages**           |
+| :---------------------------: | :----------------------------: | :----------------------------------: | :----------------------------------: |
+| Users served by SparkPlatform | Processed through the platform | Items supported in a workflow engine | Arabic, English, Turkish and Russian |
 
-**Technologies:** Next.js, TypeScript, Strapi, PostgreSQL, Fly.io
+|       **3 Gateways**       |   **5 Repositories**  |            **95%+**            |        **3 User Flows**        |
+| :------------------------: | :-------------------: | :----------------------------: | :----------------------------: |
+| Stripe, Moyasar and Paymob | Eventbeez NX monorepo | Lighthouse performance targets | Built solo for The Boat Market |
 
-[Visit The Boat Market](https://theboatmarket.co)
-
----
-
-### SparkPlatform
-
-Activity booking platform serving more than **100,000 users** and processing over **38 million EGP**.
-
-* Designed and built the tournament management dashboard
-* Created tournament brackets for 8–32 teams
-* Developed scheduling, leaderboard, and tournament administration flows
-* Built reusable interfaces for complex tournament operations
-
-**Technologies:** React, Next.js, TypeScript, TanStack Query, REST APIs
-
-[Learn More](https://apessolutions.com)
+</div>
 
 ---
 
-### Egypt International Boat Show
+## Featured Work
 
-Event management and booking platform for the Egypt International Boat Show.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Built a dynamic survey and question builder
-* Developed conditional branching logic
-* Delivered booking and event-management workflows
-* Created flexible form structures for different attendee journeys
+### 🔍 Inspkt
 
-**Technologies:** Next.js, TypeScript, React, Dynamic Forms, REST APIs
+A multi-tenant B2B inspection and booking SaaS platform.
 
-[Visit Egypt Boat Show](https://egyptboatshow.co)
+**What I built**
+
+* Three-tier role-based access control
+* Stripe, Moyasar and Paymob integrations
+* Subscription guards and protected workflows
+* Drag-and-drop workflow engine
+* Optimized management of 400+ items
+* BFF authentication with secure cookie sessions
+
+**Stack**
+
+`Next.js` `TypeScript` `Zustand` `TanStack Query` `Payments`
+
+<br/>
+
+[![Visit](https://img.shields.io/badge/Visit_Inspkt-7C3AED?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://inspkt.eg)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎟️ Eventbeez
+
+An event management SaaS platform powering attendee and organizer experiences.
+
+**What I built**
+
+* Customer-facing event experiences
+* Internal event management dashboards
+* Multi-step abstract submission system
+* Local-storage form persistence
+* Payment and subscription functionality
+* Shared architecture across a five-repository NX monorepo
+
+**Stack**
+
+`React` `Next.js` `TypeScript` `NX` `REST APIs`
+
+<br/>
+
+[![Visit](https://img.shields.io/badge/Visit_Eventbeez-06B6D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://eventbeez.com)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⛵ The Boat Market
+
+A marine marketplace built independently across the frontend and backend.
+
+**What I built**
+
+* Three distinct customer journeys
+* Boat sale and rental listing flows
+* Full CMS and administration dashboard
+* Structured listing and enquiry system
+* Strapi headless CMS integration
+* Full-stack deployment on Fly.io
+
+**Stack**
+
+`Next.js` `TypeScript` `Strapi` `PostgreSQL` `Fly.io`
+
+<br/>
+
+[![Visit](https://img.shields.io/badge/Visit_The_Boat_Market-7C3AED?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://theboatmarket.co)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 SparkPlatform
+
+An activity-booking platform serving over 100,000 users and processing more than 38 million EGP.
+
+**What I built**
+
+* Tournament management dashboard
+* Bracket generation for 8–32 teams
+* Match scheduling workflows
+* Leaderboard management
+* Tournament administration interfaces
+* Reusable complex form components
+
+**Stack**
+
+`React` `Next.js` `TypeScript` `TanStack Query`
+
+<br/>
+
+[![Learn More](https://img.shields.io/badge/Learn_More-06B6D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://apessolutions.com)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚤 Egypt International Boat Show
+
+An event management and booking platform created for the Egypt International Boat Show.
+
+**What I built**
+
+* Dynamic survey builder
+* Custom question-builder interface
+* Conditional branching logic
+* Flexible attendee journeys
+* Booking and event-management workflows
+
+**Stack**
+
+`Next.js` `TypeScript` `Dynamic Forms` `REST APIs`
+
+<br/>
+
+[![Visit](https://img.shields.io/badge/Visit_Egypt_Boat_Show-7C3AED?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://egyptboatshow.co)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ Views Properties
+
+A multilingual real-estate platform rebuilt from a legacy client-rendered application.
+
+**What I built**
+
+* CSR-to-SSR/SSG migration
+* Arabic RTL support
+* English, Turkish and Russian localization
+* Reusable Atomic Design components
+* SEO and Core Web Vitals improvements
+
+**Stack**
+
+`Next.js` `TypeScript` `next-intl` `SSR` `SSG`
+
+<br/>
+
+[![Visit](https://img.shields.io/badge/Visit_Views_Properties-06B6D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://views.properties)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Views Properties
+## Technology Ecosystem
 
-Multilingual real-estate platform rebuilt from a legacy client-rendered application.
-
-* Migrated the platform from CSR to SSR and SSG
-* Implemented Arabic RTL, English, Turkish, and Russian support
-* Improved SEO and frontend performance
-* Introduced reusable Atomic Design components
-
-**Technologies:** Next.js, TypeScript, next-intl, Atomic Design, SSR, SSG
-
-[Visit Views Properties](https://views.properties)
-
----
-
-## Technology Stack
+<div align="center">
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,remix,html,css,sass,tailwind" alt="Frontend technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,remix,html,css,sass,tailwind&perline=9" alt="Frontend technologies"/>
 
-### Backend and Data
+### Backend, Data and CMS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,mongodb,firebase" alt="Backend technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,mongodb,firebase&perline=6" alt="Backend technologies"/>
 
-### Tools and Deployment
+### Tooling and Delivery
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vite,vercel,figma" alt="Development tools" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vite,vercel,figma&perline=6" alt="Development tools"/>
 
-### Additional Experience
+<br/>
 
-`TanStack Query` · `Zustand` · `SWR` · `Axios` · `NX Monorepos` · `Strapi` · `Payload CMS` · `Drizzle ORM` · `Framer Motion` · `GSAP` · `React Three Fiber` · `Storybook` · `CI/CD`
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ziadk432&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ziad's GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadk432&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Ziad's most used languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ziadk432&theme=transparent&hide_border=true" alt="Ziad's GitHub contribution streak" />
+`TanStack Query` · `Zustand` · `SWR` · `Axios` · `NX Monorepos`
+`Strapi` · `Payload CMS` · `Drizzle ORM` · `Framer Motion` · `GSAP`
+`React Three Fiber` · `Storybook` · `CI/CD` · `Core Web Vitals`
 
 </div>
 
 ---
 
-## What I Focus On
+## GitHub Analytics
+
+<div align="center">
+
+<p>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ziadk432&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=06B6D4&text_color=8B949E&rank_icon=github" alt="Ziad's GitHub statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadk432&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=8B949E&langs_count=8" alt="Ziad's most-used languages"/>
+</p>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ziadk432&theme=transparent&hide_border=true&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ziadk432&bg_color=00000000&color=7C3AED&line=06B6D4&point=7C3AED&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## How I Build
 
 ```text
-Frontend Architecture     ████████████████████
-React & Next.js           ████████████████████
-TypeScript                ███████████████████░
-SaaS Products             ███████████████████░
-Performance & SEO         ██████████████████░░
-Full-Stack Development    ███████████████░░░░░
+Understand the product
+        ↓
+Shape the user journey
+        ↓
+Design the architecture
+        ↓
+Build reusable foundations
+        ↓
+Ship, measure and optimize
+```
+
+I care about more than making an interface work. I focus on:
+
+* Architecture that remains understandable as products grow
+* Reusable components that accelerate future development
+* Typed API layers that reduce integration errors
+* Secure authentication and session handling
+* Fast loading, accessibility and strong Core Web Vitals
+* Product flows that feel clear to real users
+
+---
+
+## Beyond Traditional Frontend Work
+
+My experience also includes:
+
+* Docker-based deployment workflows
+* CI/CD pipelines
+* Supabase and PostgreSQL
+* Node.js and FastAPI services
+* Strapi and Payload CMS
+* Mistral LLM integrations
+* Interactive Three.js product experiences
+* React Three Fiber and React Three Drei
+* Analytics using GTM and Hotjar
+
+---
+
+## Education and Research
+
+### B.Sc. Computer Science — German University in Cairo
+
+**Grade: A**
+
+My graduation project explored real-time object detection for faster retail data acquisition.
+
+The end-to-end system combined:
+
+```mermaid
+flowchart LR
+    A[YOLOv8 Model] --> B[PyTorch Training]
+    B --> C[FastAPI Inference Server]
+    C --> D[Next.js Annotation Dashboard]
+    C --> E[Kotlin Mobile App]
+    E --> F[Real-Time Camera Recognition]
 ```
 
 ---
 
-## Engineering Interests
+## Currently Exploring
 
-* Scalable frontend architecture
-* SaaS and multi-tenant applications
-* Design systems and component libraries
-* Product-focused software development
-* Web performance and accessibility
-* Full-stack TypeScript applications
-* AI-enabled product features
-* Developer experience and reusable tooling
-
----
-
-## Education
-
-**B.Sc. in Computer Science**
-German University in Cairo · Grade: A
-
-My graduation project was an end-to-end real-time object detection system for retail environments, combining:
-
-* YOLOv8 and PyTorch model training
-* FastAPI inference services
-* Next.js annotation dashboard
-* Kotlin mobile application
-* Real-time camera-based product recognition
+```js
+const currentInterests = [
+  "Scalable full-stack TypeScript systems",
+  "System design and backend architecture",
+  "AI-enabled product experiences",
+  "Developer tooling and automation",
+  "High-performance web applications",
+];
+```
 
 ---
 
-## Let's Connect
+## Let’s Build Something Meaningful
 
-I'm open to software engineering opportunities where I can contribute to production products, collaborate with strong engineering teams, and continue growing across frontend, backend, and system architecture.
-
-* **LinkedIn:** [linkedin.com/in/ziad-khalil-821277248](https://linkedin.com/in/ziad-khalil-821277248)
-* **Email:** [ziadk432@hotmail.com](mailto:ziadk432@hotmail.com)
-* **GitHub:** [github.com/ziadk432](https://github.com/ziadk432)
+I'm interested in opportunities where I can contribute to real products, collaborate with strong engineering teams and continue growing across frontend, backend and system architecture.
 
 <div align="center">
 
-### Building products that are fast, maintainable, and useful.
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ziad-khalil-821277248)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ziadk432@hotmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ziadk432\&style=flat-square)
+<br/><br/>
+
+### Building software that is fast, thoughtful and made to last.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:0F172A&height=130&section=footer"/>
