@@ -24,36 +24,6 @@
 
 ## `whoami`
 
-```ts
-const ziad = {
-  location: "Cairo, Egypt",
-  role: "Software Engineer",
-  experience: "2+ years shipping production software",
-
-  focus: [
-    "Frontend Architecture",
-    "Full-Stack Applications",
-    "SaaS Platforms",
-    "Performance & Accessibility",
-  ],
-
-  currentlyBuildingWith: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Node.js",
-    "Strapi",
-  ],
-
-  engineeringValues: [
-    "Maintainable code",
-    "Thoughtful user experiences",
-    "Strong performance",
-    "Clear architecture",
-  ],
-};
-```
-
 I build production SaaS platforms, booking systems, internal dashboards and customer-facing digital products.
 
 My work spans the full development journey—from shaping product flows and building demo interfaces to designing reusable component systems, typed API layers, authentication architecture and deployment workflows.
